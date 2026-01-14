@@ -181,6 +181,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 
 [SEO Twitter List](https://twitter.com/i/lists/1341048200677842950)
 > The list mainly show SEO masters Twitter.
+> [X-AlgoVision Pro](https://github.com/dogemos-josh/X-AlgoVision-Pro-Open-Source-Web3-Growth-Engine)
+> Open-source predictive engine for X (Twitter) algorithm ranking weights and Web3 growth optimization.
+
 
 [backlinko](https://backlinko.com/)
 > Brian Dean’s Blog (He has some achievements in backlink research.)
