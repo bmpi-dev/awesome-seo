@@ -238,3 +238,13 @@ The purpose of the traffic site is to improve [RPM](https://tg.bmpi.dev/web_cpc/
 
 [State of the Web](https://httparchive.org/reports/state-of-the-web)
 > Some reports on important statistics related to HTTP on the Internet, published by httparchive.
+
+---
+
+## About the Author
+
+This project is maintained by the creator of **MyInvestPilot** —
+a systematic investment assistance platform focused on
+rule-based, long-term investing and transparent strategy research.
+
+🔗 https://www.myinvestpilot.com
