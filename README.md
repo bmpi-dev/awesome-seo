@@ -159,6 +159,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [Prerender](https://prerender.io/)
 > Prerender serves 100% cached versions of your web pages to search engine bots that have problems executing JavaScript.
 
+[ShotOG](https://github.com/nicepkg/shotog)
+> Edge-native OG image generation API on Cloudflare Workers. 8 templates, 50ms render, free 500/month. Essential for dynamic Open Graph images to improve social sharing CTR.
+
 ## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
