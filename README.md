@@ -121,16 +121,19 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 ## Tools
 
 [ahrefs](https://ahrefs.com/)
-> SEO conprehensive analysis tool. 
+> SEO conprehensive analysis tool.
 
 [semrush](https://www.semrush.com/)
-> SEO conprehensive analysis tool. 
+> SEO conprehensive analysis tool.
 
 [webpagetest](https://www.webpagetest.org/)
 > Website speed measurement tool, essential for technical SEO optimization.
 
 [google pagespeed insights](https://developers.google.com/speed/pagespeed/insights/)
 > Website speed measurement tool, essential for technical SEO optimization.
+
+[redirect-checker](https://redirect-checker.autocompany.workers.dev)
+> Analyze HTTP redirect chains (301/302/307/308), detect redirect loops, measure performance impact with multiple User-Agents including Googlebot.
 
 [majestic](https://majestic.com/)
 > Website Backlink Analysis Plugins. 
