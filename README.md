@@ -121,10 +121,10 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 ## Tools
 
 [ahrefs](https://ahrefs.com/)
-> SEO conprehensive analysis tool. 
+> SEO comprehensive analysis tool. 
 
 [semrush](https://www.semrush.com/)
-> SEO conprehensive analysis tool. 
+> SEO comprehensive analysis tool. 
 
 [webpagetest](https://www.webpagetest.org/)
 > Website speed measurement tool, essential for technical SEO optimization.
@@ -158,6 +158,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 
 [Prerender](https://prerender.io/)
 > Prerender serves 100% cached versions of your web pages to search engine bots that have problems executing JavaScript.
+
+[OnRanko](https://onranko.com/)
+> AI Agents for digital marketing and SEO Automation. 
 
 ## Chrome Plugins
 
