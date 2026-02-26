@@ -159,6 +159,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [Prerender](https://prerender.io/)
 > Prerender serves 100% cached versions of your web pages to search engine bots that have problems executing JavaScript.
 
+[PageGuard](https://pageguard.org)
+> Free website health scanner covering SEO, performance, accessibility, and best practices. Provides AI-generated action plans and a REST API. No signup required.
+
 ## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
