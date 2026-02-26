@@ -159,6 +159,12 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [Prerender](https://prerender.io/)
 > Prerender serves 100% cached versions of your web pages to search engine bots that have problems executing JavaScript.
 
+[API Status Check](https://apistatuscheck.com/)
+> Real-time API status monitoring for 250+ services. Track uptime, incidents, and reliability data for the APIs your infrastructure depends on.
+
+[RatedWithAI](https://ratedwithai.com/)
+> AI-powered website accessibility scanner. Checks WCAG 2.2 compliance and generates fix recommendations. Accessibility is increasingly important for SEO — Google factors user experience signals into rankings.
+
 ## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
