@@ -162,6 +162,12 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
 > Open-source, local-first AI search visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+[PDFGem](https://pdfgem.io)
+> Free browser-based PDF tools (merge, split, compress, OCR) powered by WebAssembly. All processing happens client-side for privacy—no file uploads to servers.
+
+[Vizua](https://vizua.io)
+> Free browser-based image tools (compress, convert, resize, watermark) powered by WebAssembly. Privacy-first, all processing happens client-side with no server uploads.
+
 ## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
