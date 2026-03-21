@@ -162,6 +162,21 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
 > Open-source, local-first AI search visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+[robotstxt-ai](https://github.com/sharozdawa/robotstxt-ai)
+> Open-source visual robots.txt manager for AI crawlers. Toggle GPTBot, ClaudeBot, PerplexityBot, and 20+ AI bots with one click.
+
+[indexnow-mcp](https://github.com/sharozdawa/indexnow-mcp)
+> Open-source MCP server for instant URL indexing via IndexNow (Bing, Yandex, Naver, Seznam) and Google Indexing API.
+
+[schema-gen](https://github.com/sharozdawa/schema-gen)
+> Open-source Schema.org JSON-LD markup generator with 12 types (Person, Product, FAQ, Article, Organization, HowTo, etc.).
+
+[ai-visibility](https://github.com/sharozdawa/ai-visibility)
+> Open-source tool to track brand visibility across ChatGPT, Perplexity, Claude, and Gemini. Visibility scores, sentiment analysis, competitor detection.
+
+[awesome-seo-mcp-servers](https://github.com/sharozdawa/awesome-seo-mcp-servers)
+> Curated list of SEO MCP servers, agent skills, and open source SEO tools for AI-powered development.
+
 ## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
