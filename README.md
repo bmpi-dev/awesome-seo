@@ -152,7 +152,10 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 > Website Traffic View Tools. 
 
 [seoquake](https://www.seoquake.com/index.html)
-> SEO Chrome Plugin that published by semrush. 
+> SEO Chrome Plugin that published by semrush.
+
+[IndexFox](https://indexfox.ai/)
+> AI-powered website search widget with 90+ free SEO tools including meta tag generator, schema markup generator, and sitemap generator.
 
 [spyfu](https://www.spyfu.com/)
 
