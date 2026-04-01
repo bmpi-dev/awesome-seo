@@ -162,6 +162,15 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
 > Open-source, local-first AI search visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+[OGForge](https://ogforge.dev/)
+> Free Open Graph image generation API. Dynamically generate OG images for social media previews.
+
+[LinkMeta](https://linkmeta.dev/)
+> Free link metadata and preview extraction API. Extracts title, description, OG tags and favicons from any URL.
+
+[LinkShrink](https://linkshrink.dev/)
+> Free URL shortener with click tracking and analytics.
+
 ## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
