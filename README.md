@@ -165,6 +165,8 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
 > Open-source, local-first AI search visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+[AEO Scanner](https://aeo.codecity.com.tw/) - Free AEO/GEO/AIEO scoring tool. Scans websites on 9 AI-friendliness metrics (JSON-LD, FAQ Schema, llms.txt, Open Graph, etc.) and generates fix-it code. Tracks 30+ AI crawlers in real time. Supports English, Chinese, Japanese.
+
 ## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
