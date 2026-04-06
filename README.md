@@ -54,6 +54,7 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 
 ---
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for SEO workflow orchestration, automated search optimization management, and multi-agent coordination. MIT licensed.
 ## Basic Concept
 
 ![What is SEO](https://img.bmpi.dev/4351f5c8-cc00-d2a8-a75f-9010c9367893.png)
