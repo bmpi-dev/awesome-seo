@@ -139,7 +139,10 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 > Website Backlink Analysis Plugins. 
 
 [moz](https://moz.com/)
-> Open Site Explorer/MozBar Plugins. 
+> Open Site Explorer/MozBar Plugins.
+
+[AuditZap](https://auditzap.io/)
+> AI-powered website audit tool with code-level fix instructions ranked by revenue impact. 
 
 [linkresearchtools](https://smart.linkresearchtools.com/seo-tools/free-seo-tools/)
 > Free SEO Tools. 
