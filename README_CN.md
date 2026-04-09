@@ -174,6 +174,10 @@
 
 [spyfu](https://www.spyfu.com/)
 
+[OGForge](https://ogforge.dev/)
+
+> 免费的Open Graph图片生成API，通过URL参数从模板生成OG图片，帮助网站控制页面在社交媒体和搜索结果预览中的展示效果。
+
 ## Chrome插件
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
