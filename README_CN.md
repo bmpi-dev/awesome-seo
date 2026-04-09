@@ -174,6 +174,10 @@
 
 [spyfu](https://www.spyfu.com/)
 
+[LinkMeta](https://linkmeta.dev/)
+
+> 免费的URL元数据提取API，可从任意URL中获取标题、描述、Open Graph标签和网站图标，适用于审查链接预览和页面SEO元素。
+
 ## Chrome插件
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
