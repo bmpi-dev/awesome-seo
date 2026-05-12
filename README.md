@@ -165,6 +165,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
 > Open-source, local-first AI search visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+[Dualmark](https://github.com/dodopayments/dualmark)
+> Open-source AEO/GEO infrastructure. Auto-generates a markdown twin of every page (e.g. `/pricing.md`) and serves it to AI crawlers (GPTBot, ClaudeBot, PerplexityBot, +16 more known UAs) via HTTP content negotiation, while humans still get HTML. Adapters for Astro, Next.js, and Cloudflare Workers. Apache 2.0, npm provenance attested. Includes a conformance CLI (`dualmark verify <url>`) that scores any site 0–125 against a public AEO spec.
+
 ## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
