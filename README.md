@@ -165,6 +165,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
 > Open-source, local-first AI search visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+[The SEO Autopilot](https://the-seo-autopilot.com)
+> Autonomous AI-agent SEO system for indie SaaS founders that runs the full pipeline (keyword research, fact-checked drafting, schema, internal linking, scheduling). Ships 13 free in-browser SEO tools: llms.txt generator, JSON-LD schema, SERP CTR calculator, hreflang, canonical, robots, AI overview checker, AI content cost calculator.
+
 ## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
