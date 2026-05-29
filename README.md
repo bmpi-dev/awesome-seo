@@ -141,6 +141,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [moz](https://moz.com/)
 > Open Site Explorer/MozBar Plugins. 
 
+[crawlgraph](https://crawlgraph.com/)
+> Backlink intelligence built on the public Common Crawl web graph (4.4B edges, 120M domains). Paste any domain to see every site linking to it as a referring-domain list with CSV export. $99 lifetime alternative for outreach prospecting.
+
 [linkresearchtools](https://smart.linkresearchtools.com/seo-tools/free-seo-tools/)
 > Free SEO Tools. 
 
