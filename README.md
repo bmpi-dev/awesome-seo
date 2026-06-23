@@ -69,7 +69,7 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [The Authority Site System 3.0](https://www.authorityhacker.com/system/)
 > This course is about how to build an authority site ( Niche Site) from scratch and make money from it. SEO is only a part of it, it also includes Affiliates, Paid-advertising etc. (The course is pretty expensive, and I haven't started it yet)
 
-[A Technical SEO’s Guide to Crawl Budget Optimization](https://prerender.io/resources/free-downloads/white-papers/crawl-budget-guide/)
+[A Technical SEO's Guide to Crawl Budget Optimization](https://prerender.io/resources/free-downloads/white-papers/crawl-budget-guide/)
 > A comprehensive guide explaining the importance of crawl budgets in managing indexing for search engines, how it impacts website traffic, and provides optimization tips to improve online visibility and SEO results.
 
 
@@ -92,13 +92,13 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [17 Actionable Content Marketing Tips For More Traffic](https://backlinko.com/content-marketing-tips)
 > The content marketing is one of important directions in SEO. The article content mainly involves content marketing suggestions, and it written by Brian Dean who research backlink.
 
-[Here’s What We Learned About SEO](https://backlinko.com/search-engine-ranking)
+[Here's What We Learned About SEO](https://backlinko.com/search-engine-ranking)
 > The article studies the factors influencing search engine rankings through large amounts of data analysis.
 
 [What Is SEO Writing? How to Be a Better SEO Writer](https://ahrefs.com/blog/seo-writing/)
 > The article mainly introduce the writing framework of SEO, and suggestions about how to be a better SEO write.
 
-[The Authority Site Business Model](https://www.authorityhacker.com/what-is-an-authority-site/)
+[The Authority Site Business Model](https://www.authorityhacker.com/authority-site/)
 > The article introduce the whole process that an authority site from construction to profitability.
 
 [零成本搭建SEO友好型博客指南](https://www.bmpi.dev/series/%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E7%8E%B0%E4%BB%A3%E5%8D%9A%E5%AE%A2%E6%8C%87%E5%8D%97/)(Chinese Blogs)
@@ -165,6 +165,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
 > Open-source, local-first AI search visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+[EchoRank](https://echorank.com)
+> Free GEO checker and AI search visibility toolkit. Audits schema markup, llms.txt, AI crawler policies, and citation gaps across ChatGPT, Perplexity, and Gemini. Includes llms.txt generator and AI Citation Gap Analyzer. No account required.
+
 ## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
@@ -189,7 +192,7 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 > The list mainly show SEO masters Twitter.
 
 [backlinko](https://backlinko.com/)
-> Brian Dean’s Blog (He has some achievements in backlink research.)
+> Brian Dean's Blog (He has some achievements in backlink research.)
 
 [Google Search Central Blog](https://developers.google.com/search/blog)
 > Published by Google.
