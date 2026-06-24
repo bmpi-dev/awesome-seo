@@ -138,6 +138,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [majestic](https://majestic.com/)
 > Website Backlink Analysis Plugins. 
 
+[marketingskills/seo](https://github.com/marketingskills/seo)
+> Open-source CLI tool that gives AI agents live Google Search Console and GA4 data for SEO analysis.
+
 [moz](https://moz.com/)
 > Open Site Explorer/MozBar Plugins. 
 
