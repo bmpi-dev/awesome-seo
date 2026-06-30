@@ -135,6 +135,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [google pagespeed insights](https://developers.google.com/speed/pagespeed/insights/)
 > Website speed measurement tool, essential for technical SEO optimization.
 
+[Website Speed Comparator](https://landing-five-dusky-44.vercel.app/comparar-velocidad)
+> Compare your website's PageSpeed score vs. a competitor's side-by-side using real Google PageSpeed Insights data. Free, no signup.
+
 [majestic](https://majestic.com/)
 > Website Backlink Analysis Plugins. 
 
