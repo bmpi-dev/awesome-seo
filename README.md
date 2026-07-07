@@ -123,6 +123,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [advertools](https://github.com/eliasdabbas/advertools)
 > Python library providing a comprehensive set of SEO and digital marketing tools.
 
+[Nudex SEO Toolkit](https://github.com/dy275678472-ship-it/nudex-seo-toolkit)
+> Open-source toolkit for automated SEO monitoring, multi-language sitemap generation, and content gap detection across multiple sites.
+
 [ahrefs](https://ahrefs.com/)
 > SEO conprehensive analysis tool. 
 
