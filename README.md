@@ -245,6 +245,9 @@ The purpose of the traffic site is to improve [RPM](https://tg.bmpi.dev/web_cpc/
 [State of the Web](https://httparchive.org/reports/state-of-the-web)
 > Some reports on important statistics related to HTTP on the Internet, published by httparchive.
 
+[Awesome Agentic Commerce](https://github.com/MentionNetwork/awesome-agentic-commerce)
+> Curated list for the emerging GEO / agentic commerce space: protocols (UCP, ACP, AP2, MCP), AI-visibility tools, and resources for getting brands cited by AI answer engines.
+
 ---
 
 ## About the Author
