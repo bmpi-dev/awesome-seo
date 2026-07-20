@@ -129,6 +129,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [semrush](https://www.semrush.com/)
 > SEO conprehensive analysis tool. 
 
+[Screpy](https://screpy.com/)
+> SEO platform for technical audits, rank tracking, Core Web Vitals, uptime monitoring, and reports.
+
 [webpagetest](https://www.webpagetest.org/)
 > Website speed measurement tool, essential for technical SEO optimization.
 

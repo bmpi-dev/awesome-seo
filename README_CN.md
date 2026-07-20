@@ -132,6 +132,10 @@
 
 > 价格感人的SEO全面分析工具，如果有钱必备吧。
 
+[Screpy](https://screpy.com/)
+
+> 提供技术 SEO 审计、排名追踪、Core Web Vitals、宕机监控和报告功能的平台。
+
 [webpagetest](https://www.webpagetest.org/)
 
 > 网站测速工具，技术性SEO优化必备。
