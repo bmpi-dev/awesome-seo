@@ -138,6 +138,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [majestic](https://majestic.com/)
 > Website Backlink Analysis Plugins. 
 
+[mentioned](https://mentioned.to/)
+> Done-for-you Reddit growth for SEO and AI search. Finds the Reddit threads already ranking on Google for your keywords and gets your brand into them.
+
 [moz](https://moz.com/)
 > Open Site Explorer/MozBar Plugins. 
 
