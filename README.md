@@ -165,6 +165,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
 > Open-source, local-first AI search visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+[CapMonster Cloud](https://github.com/CapMonsterCloud/capmonster-captcha-solver-docs)
+> Cloud CAPTCHA solving API and open-source SDKs for SERP scrapers, rank trackers, and automated SEO crawlers.
+
 ## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
