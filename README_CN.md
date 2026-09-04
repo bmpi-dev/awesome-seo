@@ -178,6 +178,10 @@
 
 [spyfu](https://www.spyfu.com/)
 
+[LLM Pulse](https://llmpulse.ai/)
+
+> AI 搜索分析平台，用于跟踪 ChatGPT、Perplexity、Gemini、Google AI 概览和 Google AI 模式中的品牌提及、引用来源、情感和竞品声量份额。
+
 ## Chrome插件
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
