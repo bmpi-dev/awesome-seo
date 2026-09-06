@@ -168,6 +168,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
 > Open-source, local-first AI search visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+[SiteData](https://sitedata.dev/)
+> Website traffic estimation, reverse AdSense lookup, Google Ads advertiser analysis, keyword insights and Domain Rating lookup.
+
 ## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
@@ -185,6 +188,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 
 [META SEO inspector](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef)
 > The view tool for meta data of website.
+
+[SiteData](https://chromewebstore.google.com/detail/emeakbgdecgmdjgegnejpppcnkcnoaen)
+> Check any website's traffic, keywords, Google Ads activity and AdSense publisher network directly in the browser.
 
 ## Blog/Twitter
 
