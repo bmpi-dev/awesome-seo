@@ -168,6 +168,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
 > Open-source, local-first AI search visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+[LovedByAI](https://www.lovedby.ai)
+> WordPress plugin that adds structured data and generates an llms.txt file so page content can be parsed and cited by AI assistants such as ChatGPT and Perplexity.
+
 ## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
