@@ -124,6 +124,10 @@
 
 ## 工具
 
+[squirrelscan](https://github.com/squirrelscan/squirrelscan)
+
+> 开源命令行工具，基于 260 多条规则审计网站的 SEO、性能、安全、无障碍和 agent experience 问题，并为 Claude Code 等编程 agent 提供对应到源码的修复建议。
+
 [ahrefs](https://ahrefs.com/)
 
 > 价格感人的SEO全面分析工具，如果有钱必备吧。

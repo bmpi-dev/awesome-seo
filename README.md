@@ -123,6 +123,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [advertools](https://github.com/eliasdabbas/advertools)
 > Python library providing a comprehensive set of SEO and digital marketing tools.
 
+[squirrelscan](https://github.com/squirrelscan/squirrelscan)
+> Open-source CLI that audits a website against 260+ rules covering SEO, performance, security, accessibility and agent experience, and returns fixes mapped to source files for coding agents such as Claude Code.
+
 [ahrefs](https://ahrefs.com/)
 > SEO conprehensive analysis tool. 
 
