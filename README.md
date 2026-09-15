@@ -168,6 +168,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
 > Open-source, local-first AI search visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+[indexgap](https://github.com/borisowlexa2010-star/IndexGap)
+> Open-source CLI for auditing programmatic SEO pipelines — sites where pages are generated from a dataset. Fact-checks the numbers printed on each page against the dataset row that produced it, collapses findings that are really one template defect into a single fix, clusters near-duplicates, validates hreflang across language versions, and traces the funnel from generated pages through the sitemap to what search engines actually indexed. Python standard library only, no dependencies, no API keys.
+
 ## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
