@@ -112,6 +112,10 @@
 
 > 此篇文章详细讲解了如何分析网站访问日志来发现SEO中的问题。GA可以帮助我们了解用户访问情况，系统日志能帮助我们更好的了解爬虫请求、网站技术性SEO问题如301跳转等问题。
 
+[Robots.txt Statistics 2026: What 90.8 Million Websites Actually Configure](https://www.stackscan.com/blog/robots-txt-statistics)
+
+> 对1.516亿个网站robots.txt文件的统计分析，包括有多少网站发布该文件、哪些爬虫被提及和屏蔽得最多，以及有多少文件只是沿用了建站平台的默认规则。
+
 ### Google Ads
 
 [Google Ads Benchmarks for YOUR Industry](https://www.wordstream.com/blog/ws/2016/02/29/google-adwords-industry-benchmarks)

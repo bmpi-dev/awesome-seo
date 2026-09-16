@@ -108,6 +108,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [Logfile Analysis for SEO](https://www.suganthan.com/blog/logfile-analysis-seo/)
 > This article detail explains how to analyse website access logs to identify problems in SEO. Google Analytics can help us understand user access, and system logs can help us better understand crawler requests, website techical SEO issues such as 301 redirects and so on.
 
+[Robots.txt Statistics 2026: What 90.8 Million Websites Actually Configure](https://www.stackscan.com/blog/robots-txt-statistics)
+> An analysis of the robots.txt files served by 151.6 million live websites, covering how many publish one, which crawlers are named and blocked most often, and how many files only repeat a hosting platform's defaults.
+
 ### Google Ads
 
 [Google Ads Benchmarks for YOUR Industry](https://www.wordstream.com/blog/ws/2016/02/29/google-adwords-industry-benchmarks)
