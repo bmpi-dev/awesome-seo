@@ -168,6 +168,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
 > Open-source, local-first AI search visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+[geolint](https://github.com/iliasabk/geolint)
+> Open-source "ESLint for AI search". Audits robots.txt against 51 AI crawler tokens, llms.txt, structured data and citability across 52 rules with a 0-100 score and fixes per finding. CLI, SARIF, GitHub Action, MCP server in the official registry.
+
 ## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
