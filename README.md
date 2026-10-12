@@ -257,3 +257,4 @@ a systematic investment assistance platform focused on
 rule-based, long-term investing and transparent strategy research.
 
 🔗 https://www.myinvestpilot.com
+- [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
