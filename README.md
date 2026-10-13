@@ -165,6 +165,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [Prerender](https://prerender.io/)
 > Prerender serves 100% cached versions of your web pages to search engine bots that have problems executing JavaScript.
 
+[Vaneform](https://vaneform.com/)
+> Free website traffic & SEO lookup: monthly visits, traffic sources, top countries and keywords for any domain, plus leaderboards across ~1M sites.
+
 [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
 > Open-source, local-first AI search visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
