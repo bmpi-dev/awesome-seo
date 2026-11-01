@@ -125,6 +125,9 @@ The resources below prioritize official search-engine tools, mature open-source 
 [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/)
 > Established desktop crawler for technical SEO, including broken links, redirects, and metadata; the free version crawls up to 500 URLs per run.
 
+[seocheck-cli](https://github.com/romangrid/seocheck-cli)
+> Open-source CLI and Model Context Protocol (MCP) diagnostic tool for automated Core Web Vitals, Schema.org validation, and AI search bot accessibility audits. Backed by [SEOCheck-AI](https://seocheck-ai.com/free-seo-check).
+
 ### Other established tools
 
 [advertools](https://github.com/eliasdabbas/advertools)
