@@ -164,6 +164,9 @@ The resources below prioritize official search-engine tools, mature open-source 
 
 > Website Traffic View Tools. 
 
+[Vaneform](https://vaneform.com/)
+> Free website traffic checker: estimated monthly visits, trends, traffic sources, and growth leaderboards. Hosted MCP available.
+
 [seoquake](https://www.seoquake.com/index.html)
 > SEO Chrome Plugin that published by semrush. 
 
