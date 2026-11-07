@@ -133,6 +133,9 @@ The resources below prioritize official search-engine tools, mature open-source 
 [ahrefs](https://ahrefs.com/)
 > SEO conprehensive analysis tool. 
 
+[GoAnyAPI](https://goanyapi.com/)
+> SEO data API and MCP server for AI agents: SERP, keyword difficulty and suggestions, backlinks, domain rating history, website traffic, and Google Ads Transparency, callable from Claude Code, Cursor, Codex and other MCP clients.
+
 [semrush](https://www.semrush.com/)
 > SEO conprehensive analysis tool. 
 
